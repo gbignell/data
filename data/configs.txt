@@ -10,7 +10,7 @@ awb:1
 awb_gain:1
 bpc:0
 brightness:0
-chat_id:
+chat_id:0
 colorbar:0
 contrast:0
 dcw:1
